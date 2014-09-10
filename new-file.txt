@@ -1,7 +1,4 @@
 This is a new file
-
 Change from branch1
 Change from master
-
 Change from branch2
-
